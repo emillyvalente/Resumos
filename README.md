@@ -19,4 +19,4 @@ Git Init
 - [Digital Inovation One](https://www.dio.me/)
 =======
 # Resumos-dio
-resumos da aula da DIO.
+resumos da aula da DIO.👌
